@@ -1,3 +1,3 @@
 export enum AuthorFlairType {
-    Text = 'text'
+    TEXT = 'text'
 }
