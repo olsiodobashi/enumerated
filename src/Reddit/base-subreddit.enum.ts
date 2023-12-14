@@ -1,5 +1,5 @@
 export enum BaseSubreddit {
-    All = 'all',
-    Popular = 'popular',
-    Home = 'home'
+    ALL     = 'all',
+    POPULAR = 'popular',
+    HOME    = 'home'
 }
