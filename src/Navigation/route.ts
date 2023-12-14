@@ -1,8 +1,8 @@
 export enum Route {
-  Home          = '/',
-  Signin        = '/signin',
-  Register      = '/register',
-  Profile       = '/me',
-  UserSettings  = '/me/settings',
-  NotFound      = '/404'
+  HOME           = '/',
+  SIGNIN         = '/signin',
+  REGISTER       = '/register',
+  PROFILE        = '/me',
+  USER_SETTINGS  = '/me/settings',
+  NOT_FOUND      = '/404'
 }
