@@ -1,5 +1,6 @@
 export enum ShopStatus {
-    Open = 'open',
-    Closed = 'closed',
-    Unknown = 'n/a'
+    OPEN = 'open',
+    CLOSED = 'closed',
+    PERMANENTLY_CLOSED = 'permanently-closed',
+    UNKNOWN = 'n/a'
 }
